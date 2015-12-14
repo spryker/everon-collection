@@ -1,5 +1,5 @@
 # Everon Collection v1.0
-Easier array handling
+Easier array handling, supports lazy loading and sorting.
 
 ## Works with
 * Php 5.6+
